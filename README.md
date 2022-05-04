@@ -1,3 +1,3 @@
 # csarp
 
-## Código para colocar em prática conhecimento em C# adquiridos no Bootcamp da DIO 
+## Código para colocar em prática conhecimentos em C# adquiridos no Bootcamp da DIO 
