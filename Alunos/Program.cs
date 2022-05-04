@@ -8,7 +8,13 @@ namespace Alunos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("");
+            Console.WriteLine("Escolha a opção desejada: ");
+            Console.WriteLine("1 - Inserir novo Aluno");
+            Console.WriteLine("2 - Listar Alunos");
+            Console.WriteLine("3 - Calcular média Geral");
+            Console.WriteLine("X - Sair");
+            Console.WriteLine("");
         }
     } 
 }
