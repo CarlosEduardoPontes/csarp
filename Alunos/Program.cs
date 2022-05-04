@@ -59,7 +59,29 @@ namespace Alunos
                             }
                         }
                         var mediaGeral = notaTotal / nrAlunos;
-                        Console.WriteLine($"MEDIA GERAL: {mediaGeral}");
+                        
+                        Enum conceitoGeral;
+                        if(mediaGeral<2)
+                        {
+                            conceitoGeral = Enum.E;
+                        }
+                        else if(mediaGeral<4)
+                        {
+                            conceitoGeral = Enum.D;
+                        }
+                        else if(mediaGeral<6)
+                        {
+                            conceitoGeral = Enum.C;
+                        }
+                        else if(mediaGeral<8)
+                        {
+                            conceitoGeral = Enum.B;
+                        }
+                        else{
+                            conceitoGeral = Enum.A;
+                        }
+
+                        Console.WriteLine($"MEDIA GERAL: {mediaGeral} - CONCEITO: {conceitoGeral}");
 
                         break;
                         default:
