@@ -1,0 +1,15 @@
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.csproj.AssemblyReference.cache
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.AssemblyInfoInputs.cache
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.AssemblyInfo.cs
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.csproj.CoreCompileInputs.cache
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/bin/Debug/net6.0/Alunos
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/bin/Debug/net6.0/Alunos.deps.json
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/bin/Debug/net6.0/Alunos.runtimeconfig.json
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/bin/Debug/net6.0/Alunos.dll
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/bin/Debug/net6.0/Alunos.pdb
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.dll
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/refint/Alunos.dll
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.pdb
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/Alunos.genruntimeconfig.cache
+/home/kishi/Documentos/projectsDotNet/csarp/csarp/Alunos/obj/Debug/net6.0/ref/Alunos.dll
